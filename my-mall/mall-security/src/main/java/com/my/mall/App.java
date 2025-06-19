@@ -1,4 +1,4 @@
-package com.my.mall.common;
+package com.my.mall;
 
 /**
  * Hello world!

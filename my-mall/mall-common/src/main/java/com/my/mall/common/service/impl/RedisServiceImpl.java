@@ -1,8 +1,8 @@
-package service.impl;
+package com.my.mall.common.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
-import service.RedisService;
+import com.my.mall.common.service.RedisService;
 
 import java.util.List;
 import java.util.Map;

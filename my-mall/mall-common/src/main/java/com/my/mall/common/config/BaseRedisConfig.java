@@ -14,8 +14,8 @@ import org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer;
 import org.springframework.data.redis.serializer.RedisSerializationContext;
 import org.springframework.data.redis.serializer.RedisSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
-import service.RedisService;
-import service.impl.RedisServiceImpl;
+import com.my.mall.common.service.RedisService;
+import com.my.mall.common.service.impl.RedisServiceImpl;
 
 import java.time.Duration;
 

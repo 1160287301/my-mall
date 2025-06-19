@@ -1,4 +1,4 @@
-package service;
+package com.my.mall.common.service;
 
 import java.util.List;
 import java.util.Map;
