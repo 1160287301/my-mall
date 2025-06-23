@@ -1,4 +1,4 @@
-package com.my.mall.security.annotation.aspect;
+package com.my.mall.security.aspect;
 
 import com.my.mall.security.annotation.CacheException;
 import org.aspectj.lang.ProceedingJoinPoint;
